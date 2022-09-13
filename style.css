@@ -1,0 +1,26 @@
+.border{
+  color: white;
+  width: 40%;
+  background-color: #e60e36;
+  border: 1px solid red;
+  border-radius: 10px;
+  padding: 5px;
+}
+.img{
+  width: 80%;
+  border: 10px solid blue;
+  border-radius: 120px;
+  margin-left: 5%;
+}
+.name{
+  font-weight: 999;
+  margin-top: 10%
+}
+.text{
+  margin: 4%;
+}
+.copyright{
+  margin-left: 70%;
+  margin-top: 20%;
+  color: green;
+}
